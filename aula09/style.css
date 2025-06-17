@@ -1,0 +1,20 @@
+
+a:link { /* links ainda nao visitados ficam azul */
+    color: blue;
+}
+
+a:hover { /* quando o mouse estiver sobre os links, ficarão verde claro */
+    background-color: lightgreen;
+}
+
+a:visited {  /* links ainda nao visitados ficam laranja */
+    color: orange;
+}
+
+a:focus {
+    border: 3px;
+}
+
+li:first-child {
+    font-weight: bold;
+}
