@@ -25,7 +25,7 @@ h2::selection {
 }
 
 input::placeholder {
-    color: blueviolet;
+    color: purple;
 }
 
 p::before {
