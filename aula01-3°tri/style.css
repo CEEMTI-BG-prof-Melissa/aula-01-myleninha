@@ -33,7 +33,7 @@ p::before {
     color: blue;
 }
 
-.destaque::first-line {
+p.destaque::first-line {
     background-color: pink;
 }
 
