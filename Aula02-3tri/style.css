@@ -7,4 +7,15 @@ div{
   border: 10px dashed black;
 }
 
-#Bloco1
+#bloco1{
+  background-color: blue;
+}
+
+#bloco2{
+  background-image: url("dog.1")
+}
+
+#bloco3{
+  
+  background-position: center;
+}
