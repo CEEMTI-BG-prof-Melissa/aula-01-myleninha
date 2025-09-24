@@ -16,6 +16,21 @@ div{
 }
 
 #bloco3{
-  
+  background-image: url("");
   background-position: center;
+}
+
+#bloco4{
+  background-image: url("");
+  background-size: cover;
+}
+
+#bloco5{
+  background-color: red;
+  background-size: cover;
+}
+
+#bloco6{
+  background-image: 
+  padding-box
 }
