@@ -12,11 +12,13 @@ div{
 }
 
 #bloco2{
-  background-image: url("dog.1")
+  background-image: ;
+  background-repeat: repeat;
+
 }
 
 #bloco3{
-  background-image: url("");
+  background-image: 
   background-position: center;
 }
 
