@@ -12,27 +12,78 @@ div{
 }
 
 #bloco2{
-  background-image: ;
+  background-image: url("bob2.jpg");
   background-repeat: repeat;
 
 }
 
 #bloco3{
-  background-image: 
+  background-image: url("bob2.jpg");
   background-position: center;
 }
 
 #bloco4{
-  background-image: url("");
+  background-image: url("bob2.jpg");
   background-size: cover;
 }
 
 #bloco5{
-  background-color: red;
-  background-size: cover;
+  background-image: url("bob2.jpg");
+  background-attachment: fixed;
 }
 
 #bloco6{
-  background-image: 
-  padding-box
+  background-image: url("bob2.jpg");
+  backgroud-repeat: no-repeat; 
+  background-origin: padding-box;
 }
+
+#bloco7{
+  background-image: url("bob2.jpg");
+  backgroud-repeat: no-repeat;
+  background-origin: border-box; 
+}
+
+#bloco8{
+  background-image: url("bob2.jpg");
+  backgroud-repeat: no-repeat;
+  background-origin: content-box;
+}
+
+#bloco9{
+  background-image: url("bob2.jpg");
+  backgroud-repeat: no-repeat; 
+  background-origin: padding-box;
+}
+
+#bloco10{
+  background-image: url("bob2.jpg");
+  backgroud-repeat: no-repeat;
+  background-origin: border-box; 
+}
+
+#bloco11{
+  background-image: url("bob2.jpg");
+  backgroud-repeat: no-repeat;
+  background-origin: center-box;
+}
+
+#bloco12{
+  background: url("bob2.jpg") repeat border-box;
+;
+  
+  
+
+  
+
+
+
+  
+  
+  
+  
+
+  
+  
+  
+  
