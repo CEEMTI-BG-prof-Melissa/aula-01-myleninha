@@ -1,1 +1,16 @@
+h1 {
+  text-align: center;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-shadow: gray 2px 2px 4px;
+}
 
+h2 {
+  text-align: right;
+  letter-spacing: 10px;
+  text-transforme: capitalize;
+  text-decoration-line: overline;
+}
+
+#1 {
+  
