@@ -23,7 +23,7 @@ h2 {
 
 #p2 {
   text-align: center;
-  direction: rtl:
+  direction: rtl;
   unicode-bidi: bidi-override;
   letter-spacing: 2px;
 }
@@ -31,7 +31,11 @@ h2 {
 #p3 {
   text-align: left;
   word-spacing: 8px;
-  text-decoration-line
+  text-decoration-line: line-through;
+  text-shadow: lightgray 1px 1px 3px;
+}
+
+
 
   
   
